@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg" width="100%" height="200">
 - 👋 Hi, I’m @ARPITJAINECE
 - 👀 I’m interested in learning new ways to solve problems around me.
 - 🌱 I’m currently learning new software technologies - LINUX + JAVA + REST-API + MySQL + REACT + NODE/EXPRESS + SOFTWARE ENGINEERING PRINCIPLES.
