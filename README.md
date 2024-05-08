@@ -7,6 +7,7 @@
 - 💞️ I’m looking to collaborate on https://github.com/ARPITJAINECE
 - 📫 How to reach me------> LINKEDIN - https://www.linkedin.com/in/aj-arpitjain || GMAIL - aj241997@gmail.com
 <h3 align="center">A passionate full stack developer.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedh-shadir&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedh-shadir" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
