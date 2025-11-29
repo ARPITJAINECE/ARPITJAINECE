@@ -17,6 +17,7 @@
 
 📫 Reach me on
 LinkedIn: https://www.linkedin.com/in/aj-arpitjain
+
 Email: aj241997@gmail.com
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
