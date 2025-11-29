@@ -1,12 +1,24 @@
 <!---<img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg" width="100%" height="200">
 --->
 
-- 👋 Hi, I’m @ARPITJAINECE
-- 👀 I’m interested in learning new ways to solve problems around me.
-- 🌱 I’m currently learning new software technologies - LINUX + JAVA + REST-API + MySQL + REACT + NODE/EXPRESS + SOFTWARE ENGINEERING PRINCIPLES.
-- 💞️ I’m looking to collaborate on https://github.com/ARPITJAINECE
-- 📫 How to reach me------> LINKEDIN - https://www.linkedin.com/in/aj-arpitjain || GMAIL - aj241997@gmail.com
-<h3 align="center">A passionate full stack developer.</h3>
+🔥 DevOps Engineer | Cloud | Automation | SRE Mindset
+
+👋 Hi, I’m Arpit Jain
+
+🚀 DevOps & Cloud Engineer passionate about automating, scaling, and securing systems.
+
+🌩️ Strong focus on AWS (primary), with hands-on exposure to Azure & GCP.
+
+🔧 Interested in building scalable, resilient, and secure cloud-native architectures.
+
+⚙️ Love solving real-world problems using Automation, CI/CD, IaC, and Container Orchestration.
+
+🤝 Open to collaborate on Cloud + DevOps + SRE projects.
+
+📫 Reach me on
+LinkedIn: https://www.linkedin.com/in/aj-arpitjain
+Email: aj241997@gmail.com
+
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedh-shadir&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedh-shadir" /> </p>
