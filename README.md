@@ -45,18 +45,10 @@ Email: aj241997@gmail.com
 
 
 
-🛡️ DevSecOps & Security
-<p align="left"> <a href="https://www.sonarqube.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sonarsource/sonarsource-icon.svg" width="45"/> </a> <a href="https://www.hashicorp.com/products/vault" target="_blank"> <img src="https://www.vectorlogo.zone/logos/hashicorp_vault/hashicorp_vault-icon.svg" width="40"/> </a> <a href="https://owasp.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/owasp/owasp-icon.svg" width="40"/> </a> </p>
-
-
 
 🛠️ Programming & Tools
 <p align="left"> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/> </a> </p>
 
-
-
-📊 GitHub Stats
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpitjainece&show_icons=true&locale=en&layout=compact" /></p>
 
 <!---
 ARPITJAINECE/ARPITJAINECE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
