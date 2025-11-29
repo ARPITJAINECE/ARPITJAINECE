@@ -29,8 +29,7 @@ Email: aj241997@gmail.com
 
 
 ⚙️ DevOps & Automation
-<p align="left"> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="45"/> </a> <a href="https://github.com/features/actions" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/github-actions.svg" width="40"/> </a> <a href="https://docs.gitlab.com/ee/ci/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" width="45"/> </a> <a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/azure-devops.svg" width="45"/> </a>
-
+<p align="left"> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="45"/> </a>  <a href="https://docs.gitlab.com/ee/ci/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" width="45"/> </a> 
 <a href="https://www.terraform.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40"/> </a>
 <a href="https://www.ansible.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40"/> </a>
 
